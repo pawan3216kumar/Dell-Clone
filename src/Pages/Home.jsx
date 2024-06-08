@@ -64,15 +64,15 @@ const Home = () => {
             <div className="flex justify-center mb-4">
               <img src={ele.image} alt={ele.title} className="object-contain h-48 w-48" />
             </div>
-            <h2 className="text-xl font-bold mb-2">{ele.title}</h2>
+            <h2 className="text-2xl font-bold mb-2">{ele.title}</h2>
             <div className="mb-2">
-              <p className="text-sm mb-1">Rating: {ele.Rating}</p>
-              <p className="text-sm">Processor: {ele.specs.Processor}</p>
-              <p className="text-sm">OS: {ele.specs.OS}</p>
-              <p className="text-sm">Graphics: {ele.specs.Graphics}</p>
-              <p className="text-sm">Memory: {ele.specs.Memory}</p>
-              <p className="text-sm">Storage: {ele.specs.Storages}</p>
-              <p className="text-sm">Display: {ele.specs.Display}</p>
+              <p className="text-xl mb-1">Rating: {ele.Rating}</p>
+              <p className="text-xl">Processor: {ele.specs.Processor}</p>
+              <p className="text-xl">OS: {ele.specs.OS}</p>
+              <p className="text-xl">Graphics: {ele.specs.Graphics}</p>
+              <p className="text-xl">Memory: {ele.specs.Memory}</p>
+              <p className="text-xl">Storage: {ele.specs.Storages}</p>
+              <p className="text-xl">Display: {ele.specs.Display}</p>
             </div>
             <div className="mt-auto">
               <p className="text-lg font-semibold mb-2">Price: ${ele.Price}</p>
@@ -81,7 +81,7 @@ const Home = () => {
               </div>
               <button 
                 onClick={() => addToCart(ele)} 
-                className="bg-blue-500 text-white py-2 px-4 rounded mt-4"
+                className="bg-blue-500 text-white py-2 px-4 rounded mt-4  "
               >
                 Add to Cart
               </button>

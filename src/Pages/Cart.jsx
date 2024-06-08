@@ -18,8 +18,8 @@ const Cart = () => {
                 <img src={item.image} alt={item.title} className="object-contain h-48 w-48" />
               </div>
               <h2 className="text-xl font-bold mb-2">{item.title}</h2>
-              <p className="text-sm mb-1">Rating :- {item.Rating}</p>
-              <p className="text-sm">Price: ${item.Price}</p>
+              <p className="text-xl mb-1">Rating :- {item.Rating}</p>
+              <p className="text-xl">Price: ${item.Price}</p>
               <Link to={'/payment'} className='text-center p-2 bg-[#75a6eb] text-black font-semibold rounded-md mt-2 active:bg-[#25354b] active:text-white transition-all' >Buy</Link>
             </div>
           ))}
