@@ -9,7 +9,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -30,7 +30,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -51,7 +51,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -72,7 +72,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -93,7 +93,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -114,7 +114,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -135,7 +135,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -156,7 +156,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -177,7 +177,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -198,7 +198,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -219,7 +219,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "Intel Core Ultra",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -240,7 +240,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "AMD RYZEN",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -260,7 +260,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "AMD RYZEN",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -281,7 +281,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "AMD RYZEN",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",
@@ -302,7 +302,7 @@ export const HomeData = [
         DeliveryDay: "Next Business Day Delivery To Key CIties",
         title: "New Inspiron 14 Plus Laptop",
         specs: {
-            Processor: "Intel Core Ultra 7 processor 155H",
+            Processor: "AMD RYZEN",
             OS: "Windows 11 Home Single Language",
             Graphics: "Intel Arc Graphic",
             Memory: "16GB , 2x8GB, LPDDR5X , 6400MT/s",

@@ -41,9 +41,9 @@ const Home = () => {
         <div>
           <label htmlFor="filter" className="mr-2 font-semibold">Filter by Processor:</label>
           <select id="filter" value={selectedFilter} onChange={handleFilterChange} className="p-2 border rounded">
-            <option value="">All</option>
-            <option value="Intel">Intel</option>
-            <option value="AMD">AMD</option>
+            <option >All</option>
+            <option value="Intel Core Ultra">Intel Core Ultra</option>
+            <option value="AMD RYZEN">AMD RYZEN</option>
           </select>
         </div>
         <div>
